@@ -1,0 +1,12 @@
+D:\CSharpDEmo\AbstracMethodDemo\AbstractClassMethod\Figure\bin\Debug\netcoreapp3.1\Figure.exe
+D:\CSharpDEmo\AbstracMethodDemo\AbstractClassMethod\Figure\bin\Debug\netcoreapp3.1\Figure.deps.json
+D:\CSharpDEmo\AbstracMethodDemo\AbstractClassMethod\Figure\bin\Debug\netcoreapp3.1\Figure.runtimeconfig.json
+D:\CSharpDEmo\AbstracMethodDemo\AbstractClassMethod\Figure\bin\Debug\netcoreapp3.1\Figure.runtimeconfig.dev.json
+D:\CSharpDEmo\AbstracMethodDemo\AbstractClassMethod\Figure\bin\Debug\netcoreapp3.1\Figure.dll
+D:\CSharpDEmo\AbstracMethodDemo\AbstractClassMethod\Figure\bin\Debug\netcoreapp3.1\Figure.pdb
+D:\CSharpDEmo\AbstracMethodDemo\AbstractClassMethod\Figure\obj\Debug\netcoreapp3.1\Figure.AssemblyInfoInputs.cache
+D:\CSharpDEmo\AbstracMethodDemo\AbstractClassMethod\Figure\obj\Debug\netcoreapp3.1\Figure.AssemblyInfo.cs
+D:\CSharpDEmo\AbstracMethodDemo\AbstractClassMethod\Figure\obj\Debug\netcoreapp3.1\Figure.csproj.CoreCompileInputs.cache
+D:\CSharpDEmo\AbstracMethodDemo\AbstractClassMethod\Figure\obj\Debug\netcoreapp3.1\Figure.dll
+D:\CSharpDEmo\AbstracMethodDemo\AbstractClassMethod\Figure\obj\Debug\netcoreapp3.1\Figure.pdb
+D:\CSharpDEmo\AbstracMethodDemo\AbstractClassMethod\Figure\obj\Debug\netcoreapp3.1\Figure.genruntimeconfig.cache
